@@ -1,2 +1,2 @@
-# authentication-passportjs
-Authentication using passportjs in NodeJs and mongoDB as database.
+# authentication-nodejs
+User authentication with passport, mongo, express and NodeJs
